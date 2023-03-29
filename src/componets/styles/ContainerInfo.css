@@ -1,0 +1,27 @@
+.containerInfo__tittle {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 35px;
+  text-shadow: 5px 5px 1px grey;
+  text-transform: uppercase;
+}
+.containerInfo__phrase {
+  color: white;
+  font-size: 30px;
+  padding: 50px;
+  text-align: center;
+  text-align: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 3;
+  max-width: 400px;
+}
+.containerInfo__author {
+    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  text-shadow: 5px 5px 1px grey;
+}
